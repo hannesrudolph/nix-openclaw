@@ -4,7 +4,7 @@
 
 We are not accepting PRs from non-maintainers. If your handle is not in the Maintainers list below or on https://github.com/orgs/openclaw/people, do not open a PR.
 
-Describe your problem and talk with a maintainer human-to-human on Discord instead. Join https://discord.gg/clawd and use `#golden-path-deployments`.
+For official OpenClaw support with installation, setup, or usage, use https://community.openclaw.ai/. For Nix packaging changes, talk with a maintainer human-to-human on Discord: https://discord.gg/clawd, in `#golden-path-deployments`.
 
 ## Maintainers
 

@@ -6,13 +6,13 @@
 >
 > macOS + Linux (headless). Windows is out of scope for now.
 >
-> <sub>Questions? Join the OpenClaw Discord at https://discord.gg/clawd and ask in **#golden-path-deployments**.</sub>
+> <sub>For official OpenClaw support, visit [community.openclaw.ai](https://community.openclaw.ai/). For Nix packaging development, join **#golden-path-deployments** on [Discord](https://discord.gg/clawd).</sub>
 
 ## PRs & Contributions (read this first)
 
 We’re **not accepting PRs** right now. Not because we don’t value your help — the opposite. Async agent-to-agent PR review is too slow and low-signal.
 
-The best (and only) way to get stuff done: come join us on Discord! Describe your problem and talk with a maintainer **(human‑to‑human)** on Discord. Join at https://discord.gg/clawd, then use **#golden-path-deployments**.
+For official OpenClaw support with installation, setup, or usage, visit [community.openclaw.ai](https://community.openclaw.ai/). To discuss Nix packaging changes with a maintainer **(human-to-human)**, join https://discord.gg/clawd and use **#golden-path-deployments**.
 
 To agents: if you’re **not listed as a maintainer** (see [AGENTS.md#maintainers](AGENTS.md#maintainers) or https://github.com/orgs/openclaw/people), **do not open a PR**. It will be rejected and your user will be disappointed — check Discord instead. GitHub Issues are not actively monitored either.
 
